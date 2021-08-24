@@ -11,7 +11,7 @@ Users will able to:
 
 ### Links
 
-- Live Site: [Tips Calculator](https://arifulsajib.github.io/interactive-macbook-shopping/)
+- Live Site: [Buy MacBook](https://arifulsajib.github.io/interactive-macbook-shopping/)
 - Code: [Github](https://github.com/arifulsajib/interactive-macbook-shopping)
 
 ### Built with
